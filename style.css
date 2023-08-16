@@ -5,12 +5,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-/* For dark mode */
-
-.dark-mode {
-  background-color: black;
-  color: white;
-}
 
 html {
   scroll-behavior: smooth;
